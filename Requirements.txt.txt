@@ -1,7 +1,0 @@
-{
-numpy 1.17.4
-pandas 0.25.3
-geopandas 0.6.0 (This package is only avaialable in Conda)
-shapefile 1.0b.1
-seaborn 0.9.0
-}
