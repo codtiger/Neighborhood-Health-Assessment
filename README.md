@@ -12,3 +12,10 @@ Post climate change movement around the world, individuals especially those who 
 ![Burglary](https://github.com/codtiger/Neighborhood-Health-Assessment/blob/master/img/burgalry.png)
 ![Sex Crimes](https://github.com/codtiger/Neighborhood-Health-Assessment/blob/master/img/sexCrimes.png)
 ![Street Avaialability](https://github.com/codtiger/Neighborhood-Health-Assessment/blob/master/img/Streets.png)
+
+##### Results 
+###### Clustering
+![Clusters](https://github.com/codtiger/Neighborhood-Health-Assessment/blob/master/img/clustering.png)
+
+###### kmeans scree plot
+![kmeans](https://github.com/codtiger/Neighborhood-Health-Assessment/blob/master/img/kmeans.png)
